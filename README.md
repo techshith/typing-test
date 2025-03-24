@@ -1,4 +1,4 @@
-This is a fun typing game built with HTML, CSS, and vanilla JavaScript. Track your speed and accuracy as you type through random words in real-time.
+This is a typing-test game built with HTML, CSS, and vanilla JavaScript. Track your speed and accuracy as you type through random words in real-time.
 
 ## Features
 - Random word generator
